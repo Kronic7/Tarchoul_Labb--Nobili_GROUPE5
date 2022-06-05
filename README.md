@@ -26,4 +26,9 @@ Le jeu se déroulera sur une grille de 9x9 et le nombre de mine sera limité à 
 
 Le jeu se déroulera sur une grille de 16x16 et le nombre de mine sera limité à 40.
 
+## Explications brèves
+
+1 - Les meilleurs scores sont "stockés" dans les fichiers "scorefacile.txt" ainsi que "scoredifficile.txt" pour afficher un classement actualisé à la fin de chaque partie
+
+2 - La décomposition en makefile a été réalisé via l'aide des fichiers ".h".
 
