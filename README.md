@@ -26,9 +26,4 @@ Le jeu se déroulera sur une grille de 9x9 et le nombre de mine sera limité à 
 
 Le jeu se déroulera sur une grille de 16x16 et le nombre de mine sera limité à 40.
 
-## Explication
-
-Pour faciliter la vie du joueur, qu'en selectionnant une case vide cela dévoile la zone l'entourant, jusqu'à ce que toutes les cases limitrophes de la zone soient adjacentes à au moins une mine et comportent un numéro.
-
-![screenshot](https://cl.ly/92c9c05eeaeb/Screenshot_2019-04-25%252520demineur%252520-%252520Recherche%252520Google.png)
 
